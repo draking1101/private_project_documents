@@ -28,3 +28,7 @@ https://discord.com/oauth2/authorize?client_id=1318557716050083921&permissions=1
 'store.steampowered.com',
 'steamcommunity.com',
 ```
+
+## 其他指令
+
+1. 說 `喵` 機器人會回應你
